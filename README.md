@@ -1,4 +1,4 @@
-# GitHub Practice 2020
+# Team 610 - GitHub Practice 2020
 
 Your task is to collaborate with the entire team to make a new Git project work!
 
